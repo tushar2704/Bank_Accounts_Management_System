@@ -54,21 +54,20 @@ The Bank Accounts Management System is a portfolio project showcasing my skills 
 
 This project is a personal portfolio project and not intended for collaborative development. However, feedback and suggestions are welcome.
 
-**License:**
+## Contact Information
 
-This project is licensed under the [MIT License](link-to-license-file).
+If you have any questions, feedback, or collaboration opportunities, please feel free to reach out to me. You can contact me via email at [info@tushar-aggarwal.com](mailto:info@tushar-aggarwal.com) or connect with me on LinkedIn at [Tushar Aggarwal](https://www.linkedin.com/in/yourname).
 
-**Contact:**
-
-For any inquiries or questions, feel free to reach out to me at your.email@example.com.
-
----
-*(Add any other relevant sections as needed)*
-
-**Disclaimer:**
-This project is for educational and portfolio purposes only. It does not involve real bank accounts or financial transactions. All data used in this project is simulated and does not reflect actual customer information or transactions.
+Thank you for visiting my Data Analysis Portfolio! I hope you find my projects informative and insightful.
 
 
+
+## Author
+- [<ins><b>©2023 Tushar Aggarwal. All rights reserved</b></ins>](https://www.tushar-aggarwal.com/)
+- <b>[LinkedIn](https://www.linkedin.com/in/tusharaggarwalinseec/)</b>
+- <b>[Medium](https://medium.com/@tushar_aggarwal)</b> 
+- <b>[Tushar-Aggarwal.com](https://www.tushar-aggarwal.com/)</b>
+- <b>[New Kaggle](https://www.kaggle.com/tagg27)</b> 
 
 
 
